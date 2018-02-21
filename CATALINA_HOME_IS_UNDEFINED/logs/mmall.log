@@ -1,0 +1,14 @@
+[08:15:05.290][INFO][com.mmall.util.JsonUtil][main] end
+[08:20:10.542][INFO][com.mmall.util.JsonUtil][main] user1Json:{"id":2,"username":null,"password":null,"email":"JavaEdge@javaedge.com","phone":null,"question":null,"answer":null,"role":null,"createTime":null,"updateTime":null}
+[08:20:10.549][INFO][com.mmall.util.JsonUtil][main] user1JsonPretty:{
+  "id" : 2,
+  "username" : null,
+  "password" : null,
+  "email" : "JavaEdge@javaedge.com",
+  "phone" : null,
+  "question" : null,
+  "answer" : null,
+  "role" : null,
+  "createTime" : null,
+  "updateTime" : null
+}
