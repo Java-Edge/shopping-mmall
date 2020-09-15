@@ -9,7 +9,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author v_shishusheng
+ * @author v_javaedge
  */
 @Getter
 @Setter

@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletResponse;
 public class CookieUtil {
 
     // 一级域名下的domain
-    private final static String COOKIE_DOMAIN = ".shishusheng.com";
+    private final static String COOKIE_DOMAIN = ".javaedge.com";
     private final static String COOKIE_NAME = "mmall_login_token";
 
     /**

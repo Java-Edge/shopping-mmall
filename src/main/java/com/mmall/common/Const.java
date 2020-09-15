@@ -6,7 +6,7 @@ import java.util.Set;
 
 /**
  *
- * @author v_shishusheng
+ * @author v_javaedge
  */
 public class Const {
 

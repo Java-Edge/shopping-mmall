@@ -21,7 +21,7 @@ import java.io.IOException;
 /**
  * 解决时间重置问题
  * Session在和服务器交互的时候有效期会重置
- * @author v_shishusheng
+ * @author v_javaedge
  */
 public class SessionExpireFilter implements Filter {
     @Override

@@ -5,7 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 import redis.clients.jedis.Jedis;
 
 /**
- * @author v_shishusheng
+ * @author v_javaedge
  */
 @Slf4j
 public class RedisPoolUtil {

@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.session:spring-session:1.2.0.RELEASE">
     <CLASSES>
-      <root url="jar://H:/maven/repository/org/springframework/session/spring-session/1.2.0.RELEASE/spring-session-1.2.0.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.2.0.RELEASE/spring-session-1.2.0.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://H:/maven/repository/org/springframework/session/spring-session/1.2.0.RELEASE/spring-session-1.2.0.RELEASE-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.2.0.RELEASE/spring-session-1.2.0.RELEASE-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://H:/maven/repository/org/springframework/session/spring-session/1.2.0.RELEASE/spring-session-1.2.0.RELEASE-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.2.0.RELEASE/spring-session-1.2.0.RELEASE-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

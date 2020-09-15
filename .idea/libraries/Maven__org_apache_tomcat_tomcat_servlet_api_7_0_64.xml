@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.apache.tomcat:tomcat-servlet-api:7.0.64">
     <CLASSES>
-      <root url="jar://H:/maven/repository/org/apache/tomcat/tomcat-servlet-api/7.0.64/tomcat-servlet-api-7.0.64.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-servlet-api/7.0.64/tomcat-servlet-api-7.0.64.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://H:/maven/repository/org/apache/tomcat/tomcat-servlet-api/7.0.64/tomcat-servlet-api-7.0.64-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-servlet-api/7.0.64/tomcat-servlet-api-7.0.64-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://H:/maven/repository/org/apache/tomcat/tomcat-servlet-api/7.0.64/tomcat-servlet-api-7.0.64-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-servlet-api/7.0.64/tomcat-servlet-api-7.0.64-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

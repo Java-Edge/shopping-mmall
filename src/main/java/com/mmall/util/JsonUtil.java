@@ -14,7 +14,7 @@ import java.text.SimpleDateFormat;
 /**
  * 由于redis.set需传入string,但user非此类型,所以需要转换
  * 由于是工具类,所以大多方法都是静态类型
- * @author v_shishusheng
+ * @author v_javaedge
  */
 @Slf4j
 public class JsonUtil {
